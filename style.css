@@ -1,0 +1,383 @@
+*{
+    font-family: poppins;
+    list-style: none;
+}
+
+.wrapper{
+    width: 1300px;
+    margin: 0 auto;
+    border: 1px solid;
+
+}
+.nav{
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+.nav-list{
+    margin-left: 200px;
+    font-size: small;
+    display: flex;
+}
+.nav-item{
+    margin-left: 25px;
+}
+
+.btn1{
+    border-radius: 5px;
+    width: 110px;
+    height: 45px;
+    background-color: aliceblue;
+    margin-left: 50px;
+}
+.btn1:hover{
+    width: 130px;
+    height: 60px;
+    background-color: blueviolet;
+}
+.btn2{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 110px;
+    height: 45px;
+    background-color: #02897A;
+}
+.btn2:hover{
+width: 130px;
+height: 60px;
+background-color: chartreuse;
+}
+.moonbtn{
+    width: 50px;
+    height: 45px;
+}
+.hero{
+    /* background-color: rgb(245, 245, 245); */
+    padding-top: 50px;
+    display: flex;
+    width: 100%;
+}
+.hero-text{
+    padding-top: 100px;
+    margin-left: 150px;
+    width: 50%;
+}
+.hero-img{
+    width: 50%;
+    margin-right: 100px;
+}
+.btn3{
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #02897A;
+    width: 175px;
+    height: 55px;
+}
+.btn3:hover{
+    width: 190px;
+    height: 65px;
+    background-color: crimson;
+}
+.hero h1{
+    font-weight:bolder;
+}
+.pp{
+    margin-left: 20px;
+    color: #02897A;
+    font-weight: bold;
+}
+.btnpp{
+    display: flex;
+}
+.built{
+    width: 100%;
+}
+.built h2{
+    text-align: center;
+}
+.box-built{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.btn6{
+    margin-top: 30px;
+    margin-left: 580px;
+    border-radius: 5px;
+    border: none;
+    width: 175px;
+    height: 55px;
+    color: white;
+    background-color: #02897A;
+}
+.btn6:hover{
+    width: 190px;
+    height: 65px;
+    background-color: crimson;
+}
+.managment{
+    margin-top: 150px;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+.manag-text{
+    padding-top: 50px;
+    margin-left: 100px;
+    width: 50%;
+}
+.manag-img{
+    margin-right: 50px;
+    width: 50%;
+}
+.support{
+    margin-top: 150px;
+    display: flex;
+    width: 100%;
+}
+.sup-img{
+  margin-left: 70px;
+    width: 50%;
+}
+.sup-text{
+    margin-left: 100px;
+    width: 50%;
+}
+.Collaborative{
+    margin-top: 150px;
+    display: flex;
+    width: 100%;
+}
+.colla-text{
+    margin-left: 130px;
+    width: 50%;
+}
+.colla-img{
+    margin-right: 70px;
+    width: 50%;
+}
+.quick{
+    margin-top: 200px;
+    width: 100%;
+}
+.quick h2{
+    text-align: center;
+}
+.quick p{
+    text-align: center;
+}
+.imgtext1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}.ptext2{
+    margin-left: 200px;
+}
+.imgava2{
+    margin-left: 20px;
+}
+.ptext1{
+    margin-right: 200px;
+}
+.imgava1{
+    margin-right: 20px;
+}
+.imgtext2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgava3{
+    /* margin-right: 20px; */
+}
+.imgava4{
+    margin-left: 250px;
+}
+.ptext3{
+    margin-right: 20px;
+}
+.ptext4{
+    margin-left: 20px;
+}
+.contents{
+    width: 100%;  
+}
+.boxscon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-content img{
+border-radius: 5px;
+}
+.contents h2{
+    margin-left: 70px;
+}
+.contents p{
+    margin-left: 70px;
+}
+.table{
+    text-align: center;
+    width: 100%;
+}
+.num{
+    color: #02897A;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.box-table{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    border-radius: 5px;
+    width: 325px;
+    height: 400px;
+}
+.box-table button{
+    width: 140px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: #02897A;
+    color: white;
+}
+.box-table button:hover{
+width: 160px;
+height: 55px;
+background-color: black;
+}
+.boxtables{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-table1 button{
+    width: 140px;
+    height: 45px;
+    border-radius: 5px;
+    background-color:white;
+    color:#02897A;
+}
+.box-table1 button:hover{
+    width: 160px;
+    height: 55px;
+    background-color:darkslategrey;
+}
+.box-table1{
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    border-radius: 5px;
+    text-align: center;
+    width: 325px;
+    height: 400px;
+    background-color: #02897A;
+}
+.num1{
+    color:white;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.box-table1:hover{
+    width: 350px;
+    height: 430px;
+    background-color: black;
+}
+.box-table:hover{
+    background-color:rgb(203, 199, 199);
+    width: 350px;
+    height: 430px;
+}
+.client{
+    margin-top: 150px;
+    text-align: center;
+    width: 100%;
+}
+.desinger{
+    display: flex;
+}
+.box-clients{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-client{
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.desinger{
+    margin-left: 50px;
+}
+.join{
+    margin-top: 100px;
+    display: flex;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: #02897A;
+    width: 65%;
+}
+.join-text button{
+    color:#02897A;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+}
+.join-text button:hover {
+    width:170px;
+    height: 60px;
+    background-color: rgb(187, 204, 255);
+}
+.join-text{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.join-img{
+    margin-left: 70px;
+}
+footer{
+    justify-content: center;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    display: flex;
+    width: 100%;
+}
+.logos{
+    margin-left: 10px;
+    display: flex;
+}
+.quti{
+    width: 325px;
+    border: 1px solid;
+    height: 50px;
+    border-color: gray;
+    border-radius: 5px;
+}
+.footertext3 button{
+    width: 130px;
+    height:40px;
+    background-color: #02897A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.endtext{
+    text-align: center;
+}
+
+.darkMod{
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+.moonbtn{
+    border-radius: 30px;
+    padding-top: 2px;
+    border: none;
+    background-color:  rgb(255,255,255);
+}
+
+.menu{
+    display: none;
+}
+
+
+
